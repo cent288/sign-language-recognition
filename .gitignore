@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+asl_alphabet_train/
+asl_alphabet_test/
+extra_datasets/
+kaggle.json
